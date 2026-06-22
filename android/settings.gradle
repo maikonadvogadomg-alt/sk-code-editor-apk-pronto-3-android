@@ -1,0 +1,2 @@
+rootProject.name = 'SKCodeEditorAPKpronto3'
+include ':app'
